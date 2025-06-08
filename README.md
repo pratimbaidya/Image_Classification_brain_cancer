@@ -10,7 +10,9 @@ This dataset contains a comprehensive collection of MRI images for brain cancer 
 The Bangladesh Brain Cancer MRI Dataset is a comprehensive collection of MRI images categorized into three distinct classes:
 
 -> Brain_Glioma: 2004 images
+
 -> Brain_Menin: 2004 images
+
 -> Brain Tumor: 2048 images
 
 The dataset includes a total of 6056 images, uniformly resized to 512x512 pixels. These images were collected from various hospitals across Bangladesh with the direct involvement of experienced medical professionals to ensure accuracy and relevance. This dataset is valuable due to the difficulty in obtaining such medical imaging data and offers a reliable resource for developing and testing diagnostic tools.
